@@ -1,0 +1,9 @@
+/nfs/bartesaghilab/sh696/susan_tutorial/bin/CMakeFiles/edit_cache.dir
+/nfs/bartesaghilab/sh696/susan_tutorial/bin/CMakeFiles/prepare_python.dir
+/nfs/bartesaghilab/sh696/susan_tutorial/bin/CMakeFiles/susan_reconstruct.dir
+/nfs/bartesaghilab/sh696/susan_tutorial/bin/CMakeFiles/susan_estimate_ctf.dir
+/nfs/bartesaghilab/sh696/susan_tutorial/bin/CMakeFiles/rebuild_cache.dir
+/nfs/bartesaghilab/sh696/susan_tutorial/bin/CMakeFiles/susan_rec_subtomos.dir
+/nfs/bartesaghilab/sh696/susan_tutorial/bin/CMakeFiles/susan_ctf_refiner.dir
+/nfs/bartesaghilab/sh696/susan_tutorial/bin/CMakeFiles/susan_aligner.dir
+/nfs/bartesaghilab/sh696/susan_tutorial/bin/CMakeFiles/susan_refs_aligner.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/susan_ctf_refiner.dir/src/ctf_refiner.cu.o -o susan_ctf_refiner  -lcufft -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/opt/apps/rhel8/cuda-11.4/targets/x86_64-linux/lib/stubs" -L"/opt/apps/rhel8/cuda-11.4/targets/x86_64-linux/lib"

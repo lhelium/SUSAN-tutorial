@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/susan_refs_aligner.dir/src/refs_aligner.cu.o -o susan_refs_aligner  -lcufft -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/opt/apps/rhel8/cuda-11.4/targets/x86_64-linux/lib/stubs" -L"/opt/apps/rhel8/cuda-11.4/targets/x86_64-linux/lib"

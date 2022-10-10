@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/susan_estimate_ctf.dir/src/estimate_ctf.cu.o -o susan_estimate_ctf  -lcufft -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/opt/apps/rhel8/cuda-11.4/targets/x86_64-linux/lib/stubs" -L"/opt/apps/rhel8/cuda-11.4/targets/x86_64-linux/lib"
