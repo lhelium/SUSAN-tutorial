@@ -114,7 +114,7 @@ addpath LOCAL_SUSAN_PATH
    ```
 2. Install the packages needed for building `SUSAN`
    ```
-   conda install -c nvidia -c conda-forge git cmake make eigen c-compiler cxx-compiler cuda python numpy numba
+   conda install -c conda-forge git cmake make cxx-compiler eigen cudatoolkit-dev
    ```
 -  **(Optional)** Install `openmpi`:
    ```
@@ -166,4 +166,3 @@ Depending on the system setup:
 
 
 
-# SUSAN-tutorial
